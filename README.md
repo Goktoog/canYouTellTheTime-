@@ -22,9 +22,9 @@ Saati söyleyebilir misin ? (https://www.youtube.com/watch?v=zhf1pIl007o)
 ---
 
 ## 📂 Proje Dosyaları:
-- **index.html**: Ana sayfa yapısı.
-- **style.css**: Proje için özel olarak tasarlanmış CSS dosyası.
-- **script.js**: Saat ve hava durumu işlemlerini gerçekleştiren JavaScript kodları.
+- **canYouTellTheTime.html**: Ana sayfa yapısı.
+- **design.css**: Proje için özel olarak tasarlanmış CSS dosyası.
+- **everyScript.js**: Saat ve hava durumu işlemlerini gerçekleştiren JavaScript kodları.
 
 ---
 
