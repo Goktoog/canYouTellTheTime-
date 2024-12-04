@@ -1,6 +1,6 @@
 # canYouTellTheTime(Hava Durumu ve Saat)⏰
 
-Bu proje, saati ve hava durumunu gösteren, ayrıca CSS stilleri ile estetik bir görünüm yakalamaya çalıştığım bir web uygulamasıdır. Projeyi geliştirirken JavaScript, HTML ve CSS kullanılmıştır. Siteyi tasarlarken CSS üzerinde sürekli yeni şeyler deneyerek yaptım kolay ve estetik durması üzerişnde çalıştım. 
+Bu proje, saati ve hava durumunu gösteren, ayrıca CSS stilleri ile estetik bir görünüm yakalamaya çalıştığım bir web uygulamasıdır. Projeyi geliştirirken JavaScript, HTML ve CSS kullanılmıştır. Siteyi tasarlarken CSS üzerinde sürekli yeni şeyler deneyerek yaptım kullanımının kolay ve estetik durması üzerinde çalıştım. 
 
 **Saati söyleyebilir misin ? (https://www.youtube.com/watch?v=zhf1pIl007o)**
 
